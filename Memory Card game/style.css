@@ -1,0 +1,15 @@
+.parts {
+  background-color: green;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+}
+img {
+  height: 100px;
+  width: 100px;
+}
+#reset {
+  width: 10%;
+  height: 50px;
+  font-size: 30px;
+}
